@@ -4,16 +4,11 @@ const codeforces =require('./codeforces');
 const codechef =require('./codechef');
 const hackerrank =require('./hackerrank');
 const interviewbit =require('./interviewbit');
-// const twitter =require('./twitter');
 
-// const USERNAME='xyz52592831';
-// const PASSWORD='tweet@123';
 
   (async () => {
   
-    // await twitter.initialize();
-
-    // await twitter.login(USERNAME,PASSWORD);
+   
     
     await hackerearth.initialize();
 
